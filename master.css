@@ -1,0 +1,9 @@
+html{
+  background-image: url(image1.jpg);
+  background-repeat: repeat;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
