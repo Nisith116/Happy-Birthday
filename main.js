@@ -62,7 +62,7 @@ $(document).ready(function(){
   })
 
   let mark = `<marquee class="mone" direction="right" loop="1" behavior="slide">HAPPY</marquee>
-  <marquee class="mtwo" direction="left" loop="1" behavior="slide" >BIRTHDAY</marquee>`
+  <marquee class="mtwo" direction="left" loop="1" behavior="slide" >VALENTINE'S DAY</marquee>`
 
 
 
